@@ -12,7 +12,7 @@ class HomeController extends Component {
   }
 
   render() {
-    return <h1>Hola</h1>;
+    return <h1>Hola Mundo</h1>;
   }
 }
 
